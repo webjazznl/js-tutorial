@@ -1,2 +1,2 @@
 # js-tutorial
-Based on Learn Enough
+Based on Learn Enough Javascript
